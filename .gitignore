@@ -1,2 +1,13 @@
+logs
+project/target
+target/
 *.class
-*.log
+*.cache
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+*.attach*
+.scannerwork
